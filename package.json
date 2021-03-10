@@ -1,5 +1,5 @@
 {
-  "name": "spring-animation",
+  "name": "physics-based-animation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
